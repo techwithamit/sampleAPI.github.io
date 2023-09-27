@@ -1,0 +1,28 @@
+{
+  "html": [
+    {
+      "hid": 1,
+      "title":"What is HTML",
+      "img":"https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "body": "HTML is the standard markup language for Web pages With HTML you can create your own Website HTML is easy to learn - You will enjoy it"
+      
+    }
+  ],
+  "css": [
+    {
+      "hid": 2,
+      "title":"What is CSS",
+      "img":"https://images.pexels.com/photos/11035386/pexels-photo-11035386.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "body": "CSS is the language we use to style an HTML document.CSS describes how HTML elements should be displayed.This tutorial will teach you CSS from basic to advanced."
+      
+    }
+  ],
+  "javascript": [
+  {
+    "hid": 3,
+    "title":"What is Java Script",
+    "img":"https://images.pexels.com/photos/1972464/pexels-photo-1972464.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "body": "JavaScript is the world's most popular programming language.JavaScript is the programming language of the Web.JavaScript is easy to learn This tutorial will teach you JavaScript from basic to advanced."
+  }
+]
+}
